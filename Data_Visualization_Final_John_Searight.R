@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization Final"
+title: "Data Visualization Sample Work"
 author: "John Searight"
 date: '2022-04-06'
 output:
