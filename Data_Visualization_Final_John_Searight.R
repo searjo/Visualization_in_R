@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization Sample Work"
+title: "Data Visualization Sample Work in R Markdown"
 author: "John Searight"
 date: '2022-04-06'
 output:
